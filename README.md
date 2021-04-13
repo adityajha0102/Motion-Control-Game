@@ -2,6 +2,9 @@
 
 #### A few months ago I saw something similar to this on Linkedin that inspired me to work on the project. This project can be used to play any game in your PC or conrol any application the way you like by selecting the tracking object and then moving it around the boxes on the screen
 
+![Screenshot (18)](https://user-images.githubusercontent.com/59216663/114544687-95e8c280-9c78-11eb-9e29-e43f64c2e1a9.png)
+
+
 ## Getting Started
 
 #### In order to start with the Motion Control Game just clone this repository. Open the main file in your Python IDE, create a virtual environment with Python version 3.6 and replace the names of each directory with your pc directories respectively .
